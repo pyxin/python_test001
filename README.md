@@ -1,2 +1,2 @@
-# python_test001
+# python基础要打牢
 流畅的python练习
